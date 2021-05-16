@@ -1,0 +1,24 @@
+{
+  "name": "git-test-2",
+  "version": "1.0.0",
+  "description": "\" creating node and git combinely\"",
+  "main": "index.js",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "index.html",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharifmia091/node_test2.git"
+  },
+  "author": "sharif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharifmia091/node_test2/issues"
+  },
+  "homepage": "https://github.com/sharifmia091/node_test2#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
